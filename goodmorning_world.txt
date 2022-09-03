@@ -1,2 +1,3 @@
 This is a repository make to test out the transfer from my VM Linux Ubuntu to MacOS.
 I am having laggy issues with the VM so I decided to work on further projects with my main System!
+just some words that I am adding here.
